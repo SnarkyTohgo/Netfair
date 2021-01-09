@@ -10,7 +10,4 @@ As of today's circumnstances due to COVID-19 virus, few events are prepared to e
 
 Netfair facilitates the entire process by showing the user who is participating on a given online conference (within a certain event), as well as all the companies present; mediate connections between participants and conferencees; and overall smoothen information filtering for both sides. All this to provide a cleaner, more organized experience for everyone envolved in those events.
 
-## Project Management
-  
-https://trello.com/b/Imgn05sb/esof
 

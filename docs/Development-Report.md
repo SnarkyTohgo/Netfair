@@ -1,6 +1,6 @@
-# openCX-teenage-mutant-coding-turtles Development Report
+# Netfair Development Report
 
-Welcome to the documentation pages of the Netfair of **openCX**!
+Welcome to the documentation pages of Netfair!
 
 ![image of netfair logo](images/app_logo.jpg)
 
@@ -29,8 +29,6 @@ Please contact us!
 Thank you!
 
 * [Adriana Cruz e Silva da Costa Gonçalves](https://github.com/adrianacscg)
-* [João Nuno Diegues Vasconcelos](https://github.com/jf-ne-du-vp)
-* [João Renato da Costa Pinto](https://github.com/joaorenatopinto)
 * [Tiago Filipe Lima Rocha](https://github.com/SnarkyTohgo)
 
 ---
