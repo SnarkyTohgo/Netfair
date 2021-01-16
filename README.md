@@ -14,4 +14,4 @@ Netfair facilitates the entire process by showing the user who is participating 
 
 ### Demo
 
-![netfair demo](docs/images/netfair.mp4)
+![netfair demo](docs/images/netfair.gif)
